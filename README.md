@@ -15,12 +15,7 @@
     <img src="https://img.shields.io/github/issues/teletips/Session-String-Generator?style=for-the-badge" alt="Issues">
 </p>  
 
-
-<h2 align="center">
-    <img src="ssg.jpg" alt="Session String Generator logo" width="500">
-    <br>
-    Session String Generator
-</h2>
+<img src="ssg.jpg" alt="Session String Generator logo" width="500" align="center">
 
 ## ☁️ Run
 
