@@ -16,11 +16,11 @@
 </p>  
 
 
-<h3 align="center">
-    <img src="ssg.jpg" alt="Session String Generator logo" width="400">
+<h2 align="center">
+    <img src="ssg.jpg" alt="Session String Generator logo" width="500">
     <br>
     Session String Generator
-</h3>
+</h2>
 
 ## ☁️ Run
 
