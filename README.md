@@ -1,6 +1,7 @@
 <h1 align= center>Session String Generator</h1>
 <h3 align = center>Pyrogram &amp; Telethon Session String Generator By TeLe TiPs.
-
+<br>
+    
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
@@ -15,15 +16,13 @@
 </p>  
 
 
-<h1 align="center">
-    <img src="ssg.jpg" alt="Session String Generator logo" width="200">
+<h3 align="center">
+    <img src="ssg.jpg" alt="Session String Generator logo" width="400">
     <br>
     Session String Generator
-</h1>
+</h3>
 
 ## ☁️ Run
-
-### Replit
 
 <a href="https://replit.com/@teletips/Session-String-Generator" rel="nofollow"><img src="https://camo.githubusercontent.com/ed88043d35f9639b195970d32ed1e93f5bd1445ae55bc8f0bf27f3b5574cf4e9/68747470733a2f2f7265706c69742e636f6d2f62616467652f6769746875622f5465616d556c74726f69642f556c74726f6964" alt="Run on Replit" data-canonical-src="https://replit.com/badge/github/teletips/Session-String-Generator" style="max-width: 100%;"></a>
 
